@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+    background-color:rgb(62, 84, 124)
+}
+h1{
+    color:yellow;
+    font-size:50px;
+}
+h2,h3{
+    color:yellow;
+} 
+
+.btn{
+    height: 200px;
+    width:200px;
+    border-radius:20%;
+    border:10px solid black;
+    margin:2rem;
+}
+
+.btn-container{
+    display:flex;
+    justify-content:center;
+}
+
+.red{
+    background-color:palevioletred;
+}
+.green{
+    background-color:mediumaquamarine;
+}
+.yellow{
+    background-color:orange;
+}
+.blue{
+    background-color:lightskyblue;
+}
+
+.flash{
+    background-color:white;
+}
